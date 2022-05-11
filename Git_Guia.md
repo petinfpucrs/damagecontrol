@@ -4,7 +4,7 @@ Antes de tudo, é preciso fazer download do "Git".
 https://git-scm.com/downloads
 
 Após a instalação do "Git" entre no seu repositório e clique no botão "code".
-(imagem1)
+![](images/exemplo1.png)
 
 Copie o link e crie uma pasta, dentro da basta clique com o botão direito e procure pelo comando "Git BASH".
 (imagem 2 e 3)

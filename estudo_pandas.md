@@ -2,4 +2,4 @@
 
 Series: tem apenas uma única lista (uma dimensão/uma coluna) 
 
-data frame: dados alinhados em forma de tabela, com linhas e colunas, que pode mudar de tamanho e heterogênea ; vários Seres (multi dimensional)
+data frame: dados alinhados em forma de tabela, com linhas e colunas; vários Seres (multi dimensional)

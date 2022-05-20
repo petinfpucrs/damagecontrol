@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 
 fonte = pd.read_csv('misturas.csv')

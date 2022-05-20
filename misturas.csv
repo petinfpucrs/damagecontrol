@@ -10,3 +10,14 @@ Vinagre,Água Oxigenada,irritações na pele nos olhos e no sistema respiratóri
 Álcool,Amônia,seguro
 Álcool,Alvejantes,composto tóxico
 Amônia,Alvejantes,composto tóxico
+Desinfetante,Água Sanitária,gases tóxicos
+Detergente,Água Sanitária,gases tóxicos
+Álcool,Água Sanitária,composto tóxico
+Vinagre,Água Sanitária,problemas de respiração;ardência nos olhos;queimadura
+Amônia,Água Sanitária,composto tóxico
+Alvejantes,Água Sanitária,composto tóxico
+Bicarbonato de Sódio,Vinagre,explosão (se colocada em recipiente fechado)
+Água Oxigenada,Vinagre,irritações na pele nos olhos e no sistema respiratório;explosão (se colocada em recipiente fechado)
+Amônia,Álcool,seguro
+Alvejantes,Álcool,composto tóxico
+Alvejantes,Amônia,composto tóxico

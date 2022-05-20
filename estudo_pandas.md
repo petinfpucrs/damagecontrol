@@ -12,3 +12,10 @@ data frame: dados alinhados em forma de tabela, com linhas e colunas; vários Se
                              data  valor
                           0  15/07     60
                           1   18/9     70
+
+métodos visualizacão: 
+  x = pd.read_excel('nomedoarquivo') --> para importar dados já criados no excel e transformar em um Data Frame
+  vendas.head(x) --> mostra apenas o numero de linhas x da tabela 
+  vendas.shape --> mostra quantas linhas e colunas tem na tabela\
+  vendas.describe --> da o resumo da tabela 
+

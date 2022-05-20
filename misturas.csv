@@ -1,14 +1,12 @@
-água sanitária, desinfetante, gases tóxicos
-água sanitária, detergente, gases tóxicos
-água sanitária, álcool, composto tóxico
-água sanitária, vinagre, problemas de respiração
-água sanitária, vinagre, ardência nos olhos
-água sanitária, vinagre, queimadura
-água sanitária, amônia, composto tóxico
-água sanitária, alvejante, composto tóxico
-vinagre, bicarbonato de sódio, explosão (se colocada em recipiente fechado)
-vinagre, água oxigenada, irritações na pele nos olhos e no sistema respiratório
-vinagre, água oxigenada, explosão (se colocada em recipiente fechado)
-álcool , amônia, seguro
-álcool , alvejantes, composto tóxico
-amônia , alvejantes, composto tóxico
+composição 1,composição 2,resultado
+Água Sanitária,Desinfetante,gases tóxicos
+Água Sanitária,Detergente,gases tóxicos
+Água Sanitária,Álcool,composto tóxico
+Água Sanitária,Vinagre,problemas de respiração;ardência nos olhos;queimadura
+Água Sanitária,Amônia,composto tóxico
+Água Sanitária,Alvejantes,composto tóxico
+Vinagre,Bicarbonato de Sódio,explosão (se colocada em recipiente fechado)
+Vinagre,Água Oxigenada,irritações na pele nos olhos e no sistema respiratório;explosão (se colocada em recipiente fechado)
+Álcool,Amônia,seguro
+Álcool,Alvejantes,composto tóxico
+Amônia,Alvejantes,composto tóxico

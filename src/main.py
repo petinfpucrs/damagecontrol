@@ -72,9 +72,16 @@ def Comp2(c2):
 #entregando resultado
 Compos1 = Comp1(c1)
 Compos2 = Comp2(c2)
+analise = df.loc[(df['composição 1'] == Compos1) & (df['composição 2'] == Compos2),['resultado']]
 
 if(Comp1(c1 or c2) == 5):
     print("Opção Inválida")
 
 else:
-    print(df.loc[(df['composição 1'] == Compos1) & (df['composição 2'] == Compos2),['resultado']])
+
+    if(len(analise.index) <= 0):
+        print("Esta mistura é segura!")
+
+
+    else:
+        print(df.loc[(df['composição 1'] == Compos1) & (df['composição 2'] == Compos2),['resultado']])

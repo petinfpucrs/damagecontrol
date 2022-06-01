@@ -1,7 +1,7 @@
 import pandas as pd
 
 #DataFrame
-fonte = pd.read_csv('misturas.csv')
+fonte = pd.read_csv('src/misturas.csv')
 df = pd.DataFrame(fonte)
 
 #Menu
